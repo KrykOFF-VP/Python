@@ -25,8 +25,8 @@ for i in range(a,b):
     print(i)
 
 #Четвертое задание
-#y = float(input('Введите дробное число:'))
-#print(int(y * 10) % 10)
+y = float(input('Введите дробное число:'))
+print(int(y * 10) % 10)
 
 #Пятое задание
 n = int(input('Введите число: '))
